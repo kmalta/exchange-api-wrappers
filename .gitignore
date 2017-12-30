@@ -1,0 +1,8 @@
+#Ignores API Keys
+*api_key*
+
+#Init files
+*__init__
+
+#Compiled files
+*.pyc
