@@ -1,1 +1,1 @@
-from liqui_api_keys import *
+from keys.liqui_api_key import *
